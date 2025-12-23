@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f11735df-958a-43ec-b8c3-a67568944127" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/lib/puter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/auth.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ResumeCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ScoreCircle.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/puter.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/root.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/root.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/logo-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/logo-light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/welcome.tsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="378m6u7CaGFlO8I1cbCXcLR5X9I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gaurav/WebstormProjects/ai-resume-analyser/public&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Gaurav/WebstormProjects/ai-resume-analyser/src/main.js&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\Gaurav\\WebstormProjects\\ai-resume-analyser\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Gaurav\\WebstormProjects\\ai-resume-analyser\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gaurav\WebstormProjects\ai-resume-analyser\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gaurav\WebstormProjects\ai-resume-analyser\public" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.29346.143" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f11735df-958a-43ec-b8c3-a67568944127" name="Changes" comment="" />
+      <created>1766292902955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766292902955</updated>
+      <workItem from="1766292903747" duration="303000" />
+      <workItem from="1766293226568" duration="325000" />
+      <workItem from="1766293571647" duration="3059000" />
+      <workItem from="1766296760794" duration="1747000" />
+      <workItem from="1766410158452" duration="158000" />
+      <workItem from="1766410328751" duration="3708000" />
+      <workItem from="1766469116358" duration="861000" />
+      <workItem from="1766489636781" duration="3951000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/lib/puter.ts</url>
+          <line>102</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/lib/puter.ts</url>
+          <line>267</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
